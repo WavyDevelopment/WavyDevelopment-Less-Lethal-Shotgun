@@ -1,15 +1,17 @@
 Features:
 
-User takes 0 damage
-Easy to setup
-Custom Shot Gun
-8 Sec Rag Doll
-Full Support
-Looking for dev work? Or server files?
++ User takes 0 damage
++ Easy to setup
++ Custom Shot Gun
++ 8 Sec Rag Doll
++ Full Support
++ Looking for dev work? Or server files?
 
-Join our discord : https://discord.gg/wySkZ7nNeC
+Join our discord : https://discord.gg/wavydev
 
-HOW TO USE Drag both folders into your server files and start them
+## HOW TO USE ##
+
+Drag both folders into your server files and start them
 
 ensure wavydmg 
 ensure wavywpn
